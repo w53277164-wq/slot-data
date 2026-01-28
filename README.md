@@ -1,0 +1,2 @@
+# slot-data
+Gacor969
