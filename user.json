@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1234567890123,
+    "nama": "Arya",
+    "password": "rahasia123",
+    "noRekening": "085268401211",
+    "namaRekening": "Suparji",
+    "bank": "DANA",
+    "tanggal": "29/1/2026 10:30:00",
+    "status": "active"
+  }
+]
